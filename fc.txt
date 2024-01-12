@@ -1,14 +1,19 @@
-<<<<<<< HEAD
+
 
 welcome to fergusson college - by yash
 
 welcome to fergusson college
 
-<<<<<<< HEAD
+
+
 This is new feature file of branch 3 Prajjwalkumar
 
 
 HI my name is yash - this is conflict checking file  yash
+
+
+
+
 
 
 
@@ -17,5 +22,15 @@ Dinesh Patel
 
 This is new feature file of branch 3 Prajjwalkumar
 
+
+
+
+
+
+
+This is new feature file of branch 3 Prajjwalkumar
+
+
+HI my name is yash - this is conflict checking file  yash
 
 
